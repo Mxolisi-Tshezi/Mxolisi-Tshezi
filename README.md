@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Mxolisi-Tshezi
-- 👀 I’m interested in Software Development,Cyber Security and Cloud Computing.
-- 🌱 I’m currently learning Software Development
+- 👀 I’m interested in Software Development, Cyber Security and Cloud Computing.
 - 📫 How to reach me : nyawose57@gmail.com
 
 <!---
