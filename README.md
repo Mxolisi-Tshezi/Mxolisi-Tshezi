@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mxolisi-Tshezi
 - 👀 I’m interested in Software Development, Cyber Security and Cloud Computing.
 - 📫 How to reach me : nyawose57@gmail.com
-![](https://komarev.com/ghpvc/?username=Mxolisi-Tshezi&label=PROFILE+VIEWS)
+- ![](https://komarev.com/ghpvc/?username=Mxolisi-Tshezi&label=PROFILE+VIEWS)
 
 
 <!---
